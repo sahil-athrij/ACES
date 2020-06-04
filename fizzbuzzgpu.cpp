@@ -50,7 +50,6 @@ int main() {
                 std::cout << s.str() << std::endl;
         }
 
-        std::cout << "Device Time: " << std::setprecision(5) << elapsedTime << " ms" << std::endl;
-
+      
         return 0;
 }
